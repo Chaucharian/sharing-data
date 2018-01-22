@@ -1,0 +1,17 @@
+Software/App to share files between devices
+
+Sharing Data LifeCycle
+
+Step 1-
+	Compare folders (local and remote) to validate if there are a differences between their files
+		IF(true)
+			copy all diferences files from remote to local
+		ELSE
+			
+Step 2-
+	
+
+
+	
+
+
